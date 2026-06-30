@@ -6,6 +6,12 @@ Its purpose is to build a fast, searchable SQLite index from Markdown conversati
 
 ---
 
+## Screenshot
+
+![PZ Indexer](assets/screenshot.png)
+
+---
+
 ## Purpose
 
 PZ Indexer transforms thousands of Markdown conversations into a structured local database by extracting metadata for each conversation.
@@ -35,15 +41,11 @@ The application is designed to make years of AI conversations searchable without
 
 Current database:
 
-```
-project_zero.db
-```
+`project_zero.db`
 
 Current table:
 
-```
-conversations
-```
+`conversations`
 
 Stored metadata:
 
@@ -121,10 +123,6 @@ Rather than recreating ideas, Project Zero helps recover, organize, and leverage
 
 ## Status
 
-Current Version:
+**Current Version:** v0.1
 
-**v0.1**
-
-Status:
-
-**Actively under development**
+**Status:** Actively under development
